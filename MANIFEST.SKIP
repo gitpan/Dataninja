@@ -1,0 +1,14 @@
+.git
+.gitignore
+blib
+pm_to_blip
+Makefile$
+Makefile.old$
+doc
+etc
+inc
+MANIFEST.bak
+t/200-web-basics.t
+lib/Dataninja/Web
+bin/graph.pl
+bin/web.pl

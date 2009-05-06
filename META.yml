@@ -1,0 +1,57 @@
+---
+abstract: 'Yet Another IRC Bot to do your bidding'
+author:
+  - 'Jason May <jason.a.may@gmail.com>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 0.86'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Dataninja
+no_index:
+  directory:
+    - example
+    - inc
+    - t
+requires:
+  App::Nopaste: 0
+  Bot::BasicBot: 0
+  DBD::Mock: 0
+  DBD::Pg: 0
+  DBD::SQLite: 0
+  DBICx::Deploy: 0
+  DBIx::Class: 0
+  DBIx::Class::InflateColumn::Boolean: 0
+  DateTime: 0
+  DateTime::Duration: 0
+  DateTime::Format::Duration: 0
+  DateTime::Format::Human::Duration: 0
+  DateTime::Format::Natural: 0
+  DateTime::Format::Pg: 0
+  Hash::Merge: 0
+  List::MoreUtils: 0
+  List::Permutor: 0
+  List::Util: 0
+  Module::Pluggable: 0
+  Moose: 0
+  MooseX::NonMoose: 0.03
+  Net::Hiveminder: 0
+  Net::Twitter: 0
+  Path::Dispatcher: 0
+  REST::Google::Translate: 0
+  String::Util: 0
+  URI: 0
+  WWW::Google::Calculator: 0
+  Weather::Underground: 0
+  Web::Scraper: 0
+  YAML::XS: 0
+  perl: 5.8.8
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
