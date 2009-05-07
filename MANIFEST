@@ -27,8 +27,6 @@ lib/Dataninja/Bot/Plugin/Twitter.pm
 lib/Dataninja/Bot/Plugin/Unit.pm
 lib/Dataninja/Bot/Plugin/Weather.pm
 lib/Dataninja/Bot/Plugin/Weeksuntil.pm
-lib/Dataninja/Bot/Util.pm
-lib/Dataninja/Bot/Util/Markov.pm
 lib/Dataninja/Config.pm
 lib/Dataninja/Schema.pm
 lib/Dataninja/Schema/Area.pm
